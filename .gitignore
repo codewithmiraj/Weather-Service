@@ -1,0 +1,5 @@
+#ignore api key
+api_key.py
+
+#ignore pycache
+__pycache__*
